@@ -11,8 +11,9 @@ def fizzbuzz(int)
 end
 
 def fizzbuzz(int)
-  
-  if int % 15 == 0
+   if int % 5 == 0
+    return "Buzz"
+  elsif int % 15 == 0
   return "Fizzbuzz"
 end
 end  
