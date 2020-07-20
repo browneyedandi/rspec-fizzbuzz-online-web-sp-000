@@ -1,5 +1,5 @@
 def fizzbuzz(x)
-if
+if x = 3
   return "Fizz"
 end
 
