@@ -1,9 +1,9 @@
-def fizzbuzz(x)
-  if x == x/3to_i
+def fizzbuzz(int)
+  if int % 3 == 0
     return "Fizz"
-  elsif x == 5
+  elsif int % 5 == 0
     return "Buzz"
-  elsif x == 15
+  elsif int % 15 == 0
     return "FizzBuzz"
   end
 end
