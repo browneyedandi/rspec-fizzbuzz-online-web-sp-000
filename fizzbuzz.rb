@@ -1,5 +1,5 @@
 def fizzbuzz(x)
-  if x == 3
+  if x == x/3=to_i
     return "Fizz"
   elsif x == 5
     return "Buzz"
