@@ -1,6 +1,6 @@
 def fizzbuzz(x)
-if fizz_3 == fuzzbuzz(3)
+if x == 3
   puts "Fizz"
-
+end
 end
 
