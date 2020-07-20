@@ -4,7 +4,7 @@ if x == 3
 elsif x == 5
   return "Buzz"
 elsif x == 15
-  return "Fizzbuzz"
+  return "FizzBuzz"
 end
 end
 
