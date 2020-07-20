@@ -1,5 +1,5 @@
 def fizzbuzz(x)
 if
-  puts "Fizz"
+  return "Fizz"
 end
 
